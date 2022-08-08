@@ -1,0 +1,25 @@
+const String turismoEspacial = 'Turismo Espacial';
+const String login = 'LOGIN';
+const String loginFuncionario = 'Login do Funcionário';
+const String password = 'Senha';
+const String user = "Identificador";
+const String home = "Home";
+const String menu = "Menu de Serviços";
+const String cadastro = "Cadastro de Passageiros";
+const String cadastrar = "CADASTRAR";
+const String selecaoEspacoNave = "Selecionar Espaço-Nave";
+const String escolhaEspacoNave = "Escolha a Espaço Nave";
+const String agendarViagem = "Escolher Data da Viagem";
+const String selecionarDataViagem = "Digite a Data da Viagem";
+const String criadores = "Conheça os Criadores do App";
+const String criadoresApp = "Criadores do App - Turma 3SIS";
+const String cadastrarViagem = "Cadastrar Viagem";
+const String nomePassageiro = "Nome do Passageiro";
+const String idadePassageiro = "Idade do Passageiro";
+const String lista = "Lista de Passageiros da Viagem";
+const String dia = "Dia";
+const String mes = "Mês";
+const String ano = "Ano";
+const String agendar = "AGENDAR";
+const String salvar = "SALVAR";
+

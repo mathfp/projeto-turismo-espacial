@@ -1,0 +1,1 @@
+enum Spaceship{Gemini,Vostok,Mercury,Voskhod,Soyuz}
